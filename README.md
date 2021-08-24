@@ -18,7 +18,7 @@ for more flexibility
 
 # Usage
 
-use cp.py to merge split folder into one folder from UCF101 or HMDB to favor destination
+use cp.py to merge split folder into one folder from UCF101 or HMDB to target destination
 
 then use v2f.py to create frame for each video
 
